@@ -1,8 +1,7 @@
 
-goal
+goals
 =
-port recast opengl demo to rust with wasm output
-https://github.com/recastnavigation/recastnavigation/blob/main/RecastDemo/Source/main.cpp
+[ ] port recast opengl demo to rust with wasm output https://github.com/recastnavigation/recastnavigation/blob/main/RecastDemo/Source/main.cpp
 
 unrust opengl bindings:
 =
